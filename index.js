@@ -1,6 +1,6 @@
 const express = require('express');
-const bodyParser = require('body-parser');
 const fs = require('fs');
+const bodyParser = require('body-parser');
 const { logger } = require('./middlewares/logger');
 const { auth } = require('./middlewares/auth');
 const { addID } = require('./middlewares/addID');
