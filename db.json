@@ -1,0 +1,107 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "IronMan",
+      "powers": [
+        "robot",
+        "money"
+      ],
+      "health": 33,
+      "villains": [
+        {
+          "name": "Mandarin",
+          "health": 50
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Batman",
+      "powers": [
+        "intelligence",
+        "money"
+      ],
+      "health": 60,
+      "villains": [
+        {
+          "name": "Redhood",
+          "health": 65
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Spider-Man",
+      "powers": [
+        "intelligence"
+      ],
+      "health": 40,
+      "villains": [
+        {
+          "name": "Dr. Octavio",
+          "health": 76
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Thor",
+      "powers": [
+        "god",
+        "magic"
+      ],
+      "health": 77,
+      "villains": [
+        {
+          "name": "Hela",
+          "health": 87
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Dr. Strange",
+      "powers": [
+        "magic"
+      ],
+      "health": 86,
+      "villains": [
+        {
+          "name": "Dormamu",
+          "health": 100
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Captain America",
+      "powers": [
+        "strength",
+        "shield"
+      ],
+      "health": 75,
+      "villains": [
+        {
+          "name": "Red Skull",
+          "health": 80
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Hulk",
+      "powers": [
+        "strength",
+        "anger"
+      ],
+      "health": 100,
+      "villains": [
+        {
+          "name": "Abomination",
+          "health": 90
+        }
+      ]
+    }
+  ]
+}
